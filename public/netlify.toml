@@ -5,5 +5,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/server.js"
+  to = "/index.js"
   status = 200
